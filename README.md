@@ -17,12 +17,6 @@ Data Collection and More
 5) Scan QR Code that appears in the terminal with your phone
 6) Done
 
-# Instructions to Run Back End Code
+# Developer Notes: Check documentation on Confluence
 
-1) Open the terminal and change directory to musicmap/FrontEnd/musicmap
-2) Run "npm install" in the terminal, make sure that node.js is installed on your computer
-3) Run "npm start" or "npx expo start"
-4) Install 'Expo Go' on your phone
-5) Scan QR Code that appears in the terminal with your phone
-6) Done
 
